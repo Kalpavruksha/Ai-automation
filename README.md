@@ -241,3 +241,4 @@ Downloads the generated `.docx` file.
 
 ### `GET /health`
 Returns `{"status": "healthy", "timestamp": "..."}`.
+https://ai-automation-bztm.onrender.com/
