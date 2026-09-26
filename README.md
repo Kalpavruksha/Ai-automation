@@ -4,7 +4,7 @@ An autonomous AI agent built with **FastAPI** and **Google Gemini** that accepts
 
 ## 🏗️ Architecture
 
-```
+``-
 User Request (JSON)
        │
        ▼
